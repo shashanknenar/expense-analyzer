@@ -1,0 +1,9 @@
+{
+  "name": "expense-analyser",
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "lodash": "^4.18.1"
+  }
+}
